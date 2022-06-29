@@ -1,7 +1,7 @@
 # msa-opt
 As Minecraft has gone on, Microsoft have been adding features to spite the community, and it is becoming very apparent.
 
-This mod is only made to support 1.19 and above (including 1.19.84). 1.19 contains two issues relating to Microsoft's invasive tactics, and because of that,
+This mod is only made to support 1.19.1 and above (including 1.19.84). 1.19.1 contains two issues relating to Microsoft's invasive tactics, and because of that,
 we need to make sure this is turned off as fast as possible. 
 
 ## Why?
